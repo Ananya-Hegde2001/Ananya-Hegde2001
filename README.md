@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ananya V Hegde</h1>
 <h3 align="center">MCA Student | Web & App Developer | AWS | Proficient in Python, Java, and Cloud Technologies"</h3>
 <br>
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 <p align="left"> <a href="https://twitter.com/hegdeanany49037" target="blank"><img src="https://img.shields.io/twitter/follow/hegdeanany49037?logo=twitter&style=for-the-badge" alt="hegdeanany49037" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
