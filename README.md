@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif)
+![MasterHead](https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif)
 <h1 align="center">Hi 👋, I'm Ananya V Hegde</h1>
 <h3 align="center">MCA Student | Web & App Developer | AWS | Proficient in Python, Java, and Cloud Technologies"</h3>
 <br>
