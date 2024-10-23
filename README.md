@@ -18,7 +18,6 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/yp6auajk](https://tinyurl.com/yp6auajk)
 
-- ⚡ Fun fact **I am Funny**
 <img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame">
 
 <h3 align="left">Connect with me:</h3>
