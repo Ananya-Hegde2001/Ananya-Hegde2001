@@ -1,6 +1,8 @@
 ![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 <br>
-<h1 align="center">Hi 👋, I'm Ananya V Hegde</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;" />
+</h1>
 <h3 align="center">MCA Student | Web & App Developer | AWS | Proficient in Python, Java, and Cloud Technologies</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
