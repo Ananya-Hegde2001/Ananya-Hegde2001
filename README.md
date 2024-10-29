@@ -42,8 +42,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-hegde2001&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="ananya-hegde2001" />
 </div>
 
-
-
 <br>
 
 <h2>✍️ Random Dev Quote</h2>
