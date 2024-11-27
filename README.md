@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG"/>
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;" />
 </h1>
@@ -23,9 +22,8 @@
 - 📫 How to reach me **ananyavhegde2001@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/yp6auajk](https://tinyurl.com/yp6auajk)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame">
-
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/hegdeanany49037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hegdeanany49037" height="30" width="40" /></a>
