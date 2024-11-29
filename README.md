@@ -1,8 +1,7 @@
-![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
-<br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG"/>
 </div>
+<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;" />
 </h1>
