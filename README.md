@@ -14,11 +14,11 @@
 
 - 🌱 I’m currently learning **JavaScript, Three.js, Java**
 
-- 📝 I regularly write articles on - [Blogger](https://ananyamca.blogspot.com)
+- 📝 I regularly write articles on - **[Blogger](https://ananyamca.blogspot.com)**
 
 - 💬 Ask me about **Android, Front-End Development**
 
-- 📄 Know about my experiences - [Resume](https://tinyurl.com/yp6auajk)
+- 📄 Know about my experiences - **[Resume](https://tinyurl.com/yp6auajk)**
 <br/>
 
 ```rust
