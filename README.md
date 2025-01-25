@@ -5,14 +5,14 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;" />
 </h1>
-<h3 align="center">MCA Student | Web & App Developer | AWS | Proficient in Python, Java, and Cloud Technologies</h3>
+<h3 align="center">MCA Student | Web & App Developer | Proficient in Python, C++, and Cloud Technologies</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 <p align="left"> <a href="https://www.linkedin.com/in/ananyahegde-" target="blank"><img src="https://img.shields.io/twitter/follow/ananyavhegde-in?logo=twitter&style=for-the-badge" alt="hegdeanany49037" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **JavaScript, Three.js, Java**
+- 🌱 I’m currently learning **JavaScript, Three.js, C++**
 
 - 📝 I regularly write articles on - **[Blogger](https://ananyamca.blogspot.com)**
 
