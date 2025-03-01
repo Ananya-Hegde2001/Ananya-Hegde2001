@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on - **[Blogger](https://ananyamca.blogspot.com)**
 
-- 💬 Ask me about **Android, Front-End Development**
+- 💬 Ask me about **Front-End Development**
 
 - 📄 Know about my experiences - **[Resume](https://tinyurl.com/yp6auajk)**
 <br/>
