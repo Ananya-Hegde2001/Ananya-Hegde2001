@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My Final Year Project**
 
-- 🌱 I’m currently learning **JavaScript, Three.js, C++**
+- 🌱 I’m currently learning **JavaScript, C++**
 
 - 📝 I regularly write articles on - **[Blogger](https://ananyamca.blogspot.com)**
 
