@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 <p align="left"> <a href="https://www.linkedin.com/in/ananyahegde-" target="blank"><img src="https://img.shields.io/twitter/follow/ananyavhegde-in?logo=twitter&style=for-the-badge" alt="hegdeanany49037" /></a> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **My Final Year Project**
 
 - 🌱 I’m currently learning **JavaScript, Three.js, C++**
 
