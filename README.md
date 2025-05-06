@@ -51,6 +51,11 @@ fn main() {
 
 <br>
 
+<h2>🏆 GitHub Trophies:</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=Ananya-Hegde2001&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
 <h2>✍️ Random Dev Quote</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
