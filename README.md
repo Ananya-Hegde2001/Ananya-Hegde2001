@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Front-End Development**
 
-- 📄 Know about my experiences - **[Resume](https://tinyurl.com/yp6auajk)**
+- 📄 Know about my experiences - **[Resume](https://drive.google.com/file/d/1Fs14stQSidbwaRd309hjOQ2SSSCgn9ZE/view?usp=sharing)**
 <br/>
 
 ```rust
