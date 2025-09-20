@@ -5,11 +5,12 @@
 <h3 align="center">MCA Student | Web & App Developer | Proficient in Python, C++, and Cloud Technologies</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
-<p align="left"> <a href="https://www.linkedin.com/in/ananyahegde-" target="blank"><img src="https://img.shields.io/twitter/follow/ananyavhegde-in?logo=twitter&style=for-the-badge" alt="hegdeanany49037" /></a> </p>
 
-- 🔭 I’m currently working on **My Final Year Project**
+[![Peerlist](https://github-readme-badge.peerlist.io/api/ananyahegde)](https://peerlist.io/ananyahegde)
 
-- 🌱 I’m currently learning **JavaScript, C++**
+- 🔭 I’m currently working on **My Personal Project**
+
+- 🌱 I’m currently learning **JavaScript, Python**
 
 - 📝 I regularly write articles on - **[Blogger](https://ananyamca.blogspot.com)**
 
