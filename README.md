@@ -2,7 +2,7 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;&color=f9b6a2" />
 </h1>
-<h3 align="center">MCA Student | Web & App Developer | Proficient in Python, C++, and Cloud Technologies</h3>
+<h3 align="center">MCA Student | Web & App Developer | Proficient in Python, JavaScript, and Cloud Technologies</h3>
 <br>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
