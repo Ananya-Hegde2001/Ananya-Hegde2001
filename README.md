@@ -8,7 +8,7 @@
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/ananyahegde)](https://peerlist.io/ananyahegde)
 
-- 🔭 I’m currently working on **My Personal Project**
+- 🔭 I’m currently working on a **Tech Products**
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
