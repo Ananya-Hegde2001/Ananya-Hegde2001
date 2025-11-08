@@ -47,7 +47,7 @@ fn main() {
 <img src="https://github-readme-stats.vercel.app/api?username=ananya-hegde2001&&show_icons=true&locale=en&theme=tokyonight&hide_border=false&border_radius=5=react&rank_icon=github&border_radius=10" height="150" alt="ananya-hegde2001" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya-hegde2001&&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="ananya-hegde2001" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-hegde2001&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="ananya-hegde2001" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-hegde2001&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="ananya-hegde2001" />
 </div>
 
 <br>
