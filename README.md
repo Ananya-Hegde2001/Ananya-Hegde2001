@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;&color=ffffff" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;&color=00b4e1" />
 </h1>
 <h3 align="center">MCA Student | Web & App Developer | Proficient in Python, JavaScript, and Cloud Technologies</h3>
 <br>
