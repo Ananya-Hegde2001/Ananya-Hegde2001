@@ -29,17 +29,17 @@
                            __/ |                      __/ |            
                           |___/                      |___/
 
-$ whoami
-Ananya-V-Hegde
+fn main() {
+    let _name = "Ananya V Hegde";
+    let _education = "MCA";
+
+    let _location = "Bengaluru, Karnataka";
+    let _contact = "ananyavhegde2001@gmail.com";
+}
 
 $ cat about.txt
 developer fascinated by Mern, open source, and research.
 building, experimenting, and learning
-
-$ cat links.txt
-portfolio   → ananyahegdedev.vercel.app
-linkedin    → linkedin.com/in/ananyahegde-
-Bento   → bento.me/ananyavhegde
 
 $ logout
 ```
