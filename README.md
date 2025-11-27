@@ -12,21 +12,36 @@
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
-- 📝 I regularly write articles on - **[Blogger](https://ananyamca.blogspot.com)**
+- 📝 I regularly write articles on - **[Blogger](https://medium.com/@ananyavhegde2001)**
 
 - 💬 Ask me about **Front-End Development**
 
 - 📄 Know about my experiences - **[Resume](https://drive.google.com/file/d/1pCihEsenitZDeV9OT_VpH9BlJUxx3thl/view?usp=sharing)**
 <br/>
 
-```rust
-fn main() {
-    let _name = "Ananya V Hegde";
-    let _education = "MCA";
+```bash
+   ___                                    _   _                 _      
+  / _ \                                  | | | |               | |     
+ / /_\ \_ __   __ _ _ __  _   _  __ _    | |_| | ___  __ _  __| | ___ 
+ |  _  | '_ \ / _` | '_ \| | | |/ _` |   |  _  |/ _ \/ _` |/ _` |/ _ \
+ | | | | | | | (_| | | | | |_| | (_| |   | | | |  __/ (_| | (_| |  __/
+ \_| |_/_| |_|\__,_|_| |_|\__, |\__,_    \_| |_/\___|\__, |\__,_|\___|
+                           __/ |                      __/ |            
+                          |___/                      |___/
 
-    let _location = "Bengaluru, Karnataka";
-    let _contact = "ananyavhegde2001@gmail.com";
-}
+$ whoami
+Ananya-V-Hegde
+
+$ cat about.txt
+developer fascinated by Mern, open source, and research.
+building, experimenting, and learning
+
+$ cat links.txt
+portfolio   → ananyahegdedev.vercel.app
+linkedin    → linkedin.com/in/ananyahegde-
+Bento   → bento.me/ananyavhegde
+
+$ logout
 ```
 <img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame">
 <h2 align="left">🤝 Connect with me:</h2>
