@@ -54,7 +54,7 @@ $ logout
 </p>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vue,nextjs,tailwindcss,express,nodejs,mongodb,npm,powershell,vscode,windows,vite,babel,bash,git,github,bootstrap,cpp,eclipse,java,figma,firebase,gmail,linux,docker,netlify,vercel,postman,nestjs,notion" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwindcss,express,nodejs,mongodb,npm,powershell,vscode,windows,vite,bash,git,github,bootstrap,cpp,eclipse,figma,firebase,linux,docker,netlify,vercel,postman,nestjs,notion" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <div align="center">
