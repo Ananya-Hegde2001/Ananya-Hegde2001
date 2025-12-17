@@ -43,7 +43,12 @@ building, experimenting, and learning
 
 $ logout
 ```
-<img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame">
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:860px;height:160px;" />
+</picture>
+<!-- <img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame"> -->
 <h2 align="left">🤝 Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/hegdeanany49037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hegdeanany49037" height="30" width="40" /></a>
