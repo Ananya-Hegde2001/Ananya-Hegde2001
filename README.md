@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
-- 📝 I regularly write articles on - **[Blogger](https://medium.com/@ananyavhegde2001)**
+- 📝 I regularly write articles on - **[Medium](https://medium.com/@ananyavhegde2001)**
 
 - 💬 Ask me about **Front-End Development**
 
