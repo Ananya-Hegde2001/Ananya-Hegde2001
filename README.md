@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Front-End Development**
 
-- 📄 Know about my experiences - **[Resume](https://drive.google.com/file/d/1pCihEsenitZDeV9OT_VpH9BlJUxx3thl/view?usp=sharing)**
+- 📄 Know about my experiences - **[CV](https://drive.google.com/file/d/1pCihEsenitZDeV9OT_VpH9BlJUxx3thl/view?usp=sharing)**
 <br/>
 
 ```bash
