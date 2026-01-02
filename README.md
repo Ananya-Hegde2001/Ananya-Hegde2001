@@ -61,7 +61,6 @@ $ logout
 <h2 align="left">🛠 Languages and Tools:</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwindcss,express,nodejs,mongodb,npm,powershell,vscode,windows,vite,bash,git,github,bootstrap,cpp,eclipse,figma,firebase,linux,docker,netlify,vercel,postman,nestjs,notion" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ananya-hegde2001&show_icons=true&locale=en&theme=tokyonight" height="150" alt="ananya-hegde2001" /> -->
 <img src="https://github-readme-stats.vercel.app/api?username=ananya-hegde2001&&show_icons=true&locale=en&theme=tokyonight&hide_border=false&border_radius=5=react&rank_icon=github&border_radius=10" height="150" alt="ananya-hegde2001" />
