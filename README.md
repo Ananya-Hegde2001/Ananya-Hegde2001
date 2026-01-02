@@ -75,7 +75,6 @@ $ logout
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
 <h2>📈 GitHub Contribution Graph:</h2>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Hegde2001&theme=tokyo-night&hide_border=true&area=true)	
