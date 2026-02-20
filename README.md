@@ -82,8 +82,8 @@ $ logout
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Hegde2001&theme=tokyo-night&hide_border=true&area=true)	
 
 <h2>🌊 Flow with the waves, Bright vibes incoming! -Ananya</h2>
-  
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
