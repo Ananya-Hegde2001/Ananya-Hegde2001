@@ -81,7 +81,6 @@ $ logout
   ![Profile views](https://views.igorkowalczyk.dev/api/badge/Ananya-Hegde2001?color=pink?format=short?label=Profile+Views)
 </p>
 </div> 
-<br>
 
 <h2>✍️ Random Dev Quote</h2>
 
