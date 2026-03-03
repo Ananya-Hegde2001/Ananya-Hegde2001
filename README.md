@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Front-End Development**
 
-- 📄 Know about my experiences - **[CV](https://drive.google.com/file/d/1pCihEsenitZDeV9OT_VpH9BlJUxx3thl/view?usp=sharing)**
+- 📄 Know about my experiences - **[CV](https://ananya-cv.vercel.app)**
 <br/>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
