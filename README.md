@@ -84,7 +84,9 @@ $ logout
 
 <h2>✍️ Random Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <h2>📈 GitHub Contribution Graph:</h2>
 
