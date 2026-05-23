@@ -82,6 +82,10 @@ $ logout
 </tr>
 </table>
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Arjun's 3D Isometric Calendar" width="100%" />
+</div>
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya-hegde2001&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="ananya-hegde2001" />
 </div> -->
 <p align="center">
