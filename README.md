@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Web & App Developer | Proficient in Python, JavaScript, and Cloud Technologies</h3>
 <br>
-<img align="right" alt="Coding" width="430" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
+<img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/ananyahegde)](https://peerlist.io/ananyahegde)
 <br>
