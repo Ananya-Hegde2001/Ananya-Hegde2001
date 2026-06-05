@@ -3,12 +3,12 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;&color=00b4e1" />
 </h1>
 <h3 align="center">Web & App Developer | Proficient in Python, JavaScript, and Cloud Technologies</h3>
-<br>
 <img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
 
 [![Peerlist](https://github-readme-badge.peerlist.io/api/ananyahegde)](https://peerlist.io/ananyahegde)
 <br>
 > [!NOTE]
+> <br>
 > <code>➜ 🔭 I’m currently working on a **Tech Products :)** </code><br>
 > <br>
 > <code>➜ 🌱 I’m currently learning **JavaScript, Python** </code><br>
@@ -51,13 +51,25 @@ $ logout
   <img src="https://raw.githubusercontent.com/Ananya-Hegde2001/Ananya-Hegde2001/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:860px;height:160px;" />
 </picture>
 <!-- <img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame"> -->
-<h2 align="left">🤝 Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/hegdeanany49037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hegdeanany49037" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ananyahegde-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananyahegde-" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ananyavhegde2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ananyavhegde2001" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/ananyavhe2wqn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ananyavhe2wqn" height="30" width="40" /></a>
-<a href="https://discord.com/users/1211154996372967514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1211154996372967514" height="30" width="40" /></a>
+<h2 align="left">🤝 Find Me On:</h2>
+
+[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ananyavhegde2001@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ananyahegde-/) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ananyavhegde.vercel.app/) [![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=00AA45)](https://peerlist.io/ananyahegde) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ananyavhegde2001) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/XYZ2005/) [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/ananyavhegde2001) [![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/ananyavhegde)
+<br>
+
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=877310500&image_size=auto" target="_blank">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=877310500&image_size=auto&color_scheme=dark"
+      />
+      <img
+        alt="Activity Trends of @Ananya-Hegde2001 - Last 28 days"
+        src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=877310500&image_size=auto&color_scheme=light"
+        width="815"
+      />
+    </picture>
+  </a>
 </p>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
@@ -92,7 +104,7 @@ $ logout
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ananya-Hegde2001&show_icons=true&hide_border=true&theme=date_night" height="180"/> -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ananya-Hegde2001&theme=tokyonight" height="180"/>
 
-  ![Profile views](https://views.igorkowalczyk.dev/api/badge/Ananya-Hegde2001?color=pink?format=short?label=Profile+Views)
+  ![Profile views](https://views.igorkowalczyk.dev/api/badge/Ananya-Hegde2001?color=pink?format=short?label=Profile+Views) ![Followers](https://img.shields.io/github/followers/Ananya-Hegde2001?style=social) ![Stars](https://img.shields.io/github/stars/Ananya-Hegde2001?style=social)
 </p>
 </div> 
 
