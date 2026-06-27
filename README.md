@@ -122,6 +122,32 @@ $ logout
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Hegde2001&theme=tokyo-night&hide_border=true&area=true)	
 
+## 🏆 LeetCode Achievements
+<div align="center">
+<p align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://leetcode.com/medal/?showImg=0&id=10057983&isLevel=false">
+<img src="https://raw.githubusercontent.com/singhal-amit/LeetCode-Badges/refs/heads/main/badges/annual%20medals/2026/2026-50-days.gif" 
+width="100"/>
+</a>
+<br/>
+🔥 <b>50 Days Coding Badge</b>
+</td>
+<td align="center">
+<a href="https://leetcode.com/medal/?showImg=0&id=10412600&isLevel=false">
+<img src="https://raw.githubusercontent.com/singhal-amit/LeetCode-Badges/refs/heads/main/badges/annual%20medals/2026/2026-100-days.gif" 
+width="100"/>
+</a>
+<br/>
+🚀 <b>100 Days Coding Badge</b>
+</td>
+</tr>
+</table>
+</p>
+</div>
+
 <h2>🌊 Flow with the waves, Bright vibes incoming! -Ananya</h2>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
