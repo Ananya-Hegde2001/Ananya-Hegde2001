@@ -120,6 +120,9 @@ $ logout
 <img src="https://raw.githubusercontent.com/Ananya-Hegde2001/Ananya-Hegde2001/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananya-Hegde2001&theme=tokyo-night&hide_border=true&area=true)	-->
+
+
 ## 🏆 LeetCode Achievements
 <div align="center">
 <p align="center">
