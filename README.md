@@ -52,7 +52,6 @@ $ logout
   <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/n95o6ryv47hk8hhcael1hts0-dark.svg?v=1784380269388">
 </picture>
 <!-- GITHUBWALLPAPER:END -->
-
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isakshamkumar/isakshamkumar/output/pacman-contribution-graph-dark.svg">
