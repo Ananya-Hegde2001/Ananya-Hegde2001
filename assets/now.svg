@@ -11,7 +11,7 @@
   <text x="14" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#6f42c1" opacity="0.55">&gt;</text>
   <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
-    terraform modules that still apply six months later
+    Developer → GitHub Actions → Docker → Linux → Kubernetes
   </text>
   <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.57;0.66;1" dur="12s" repeatCount="indefinite"/>
