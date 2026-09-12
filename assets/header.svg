@@ -24,9 +24,9 @@
   <text x="856" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">v1.4.2</text>
 
   <!-- name & role -->
-  <text x="24" y="88" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#e6edf3" letter-spacing="0.5">Amara Justin</text>
-  <text x="25" y="116" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6f42c1" letter-spacing="3.5">PLATFORM / DEVOPS (IaC)</text>
-  <text x="25" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590">Terraform &#183; Kubernetes &#183; Helm &#183; ArgoCD &#183; OpenTelemetry</text>
+  <text x="24" y="88" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#e6edf3" letter-spacing="0.5">Ananya V Hegde</text>
+  <text x="25" y="116" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6f42c1" letter-spacing="3.5">MERN Stack / DEVOPS</text>
+  <text x="25" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590">MERN &#183; Linux &#183; GitHub Actions &#183; Docker &#183; Backend</text>
 
   <!-- git -> build -> deploy chain -->
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7d8590" text-anchor="middle">
