@@ -26,7 +26,7 @@
   <!-- name & role -->
   <text x="24" y="88" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#e6edf3" letter-spacing="0.5">Ananya V Hegde</text>
   <text x="25" y="116" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6f42c1" letter-spacing="3.5">MERN Stack / DEVOPS</text>
-  <text x="25" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590">React Frontend &#183; CloudFront + S3 &#183; Application Load Balancer &#183; Node.js / Express &#183; MongoDB Atlas</text>
+  <text x="25" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#7d8590">React &#183; CloudFront + S3 &#183; Load Balancer &#183; Node.js / Express &#183; MongoDB Atlas</text>
 
   <!-- git -> build -> deploy chain -->
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8" fill="#7d8590" text-anchor="middle">
