@@ -1,6 +1,12 @@
 <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif">
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ananya+V+Hegde!;&color=00b4e1" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ananya-Hegde2001/Ananya-Hegde2001/main/assets/header.svg" alt="Ananya V Hegde — MERN Developer / Backend Engineer" width="880"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ananya-Hegde2001/Ananya-Hegde2001/main/assets/now.svg" alt="now" width="720"/>
+</p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
 <h3 align="center">Web & App Developer | Proficient in Python, JavaScript, and Cloud Technologies</h3>
 <img align="right" alt="Coding" width="420" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
