@@ -65,7 +65,7 @@ $ logout
   <img src="https://raw.githubusercontent.com/Ananya-Hegde2001/Ananya-Hegde2001/output/pacman-contribution-graph.svg" alt="Contribution maze" style="display:block;margin-top:12px;width:100%;max-width:860px;height:160px;" />
 </picture>
 
-![Contribution to Grass](https://raw.githubusercontent.com/shalenMathew/shalenMathew/refs/heads/output/output.png)
+![Contribution to Grass](https://raw.githubusercontent.com/Ananya-Hegde2001/Ananya-Hegde2001/refs/heads/output/output.png)
 
 <!-- <img src="https://raw.githubusercontent.com/ayushshanks/ayushshanks/output/github-contribution-grid-snake-dark.svg" alt="SnakeGame"> -->
 <h2 align="left">🤝 Find Me On:</h2>
