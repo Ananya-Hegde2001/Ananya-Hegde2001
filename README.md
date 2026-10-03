@@ -88,6 +88,15 @@ $ logout
     </picture>
   </a>
 </p>
+<div align="center">
+
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+    width="900"
+    style="border-radius: 20px;"
+  />
+
+</div>
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwindcss,express,nodejs,mongodb,npm,powershell,vscode,windows,vite,bash,git,github,bootstrap,cpp,eclipse,figma,firebase,linux,docker,netlify,vercel,postman,nestjs,notion" />
